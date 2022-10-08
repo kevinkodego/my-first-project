@@ -9,6 +9,7 @@ var cat = {
     name: 'Mingming',
 };
 
+
 function showMyHtmlDocument() {
     document.body.getElementsByTagName('div')[0].innerHTML = "HTML is Shown";
 }
